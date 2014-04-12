@@ -1,0 +1,24 @@
+{
+  "name": "jose",
+  "version": "0.0.0",
+  "description": "Javascript Object Signing and Encryption Implementation",
+  "main": "lib/main",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/watilde/jose.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/jose.js/issues"
+  },
+  "homepage": "https://github.com/watilde/jose.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.8.0",
+  }
+}
