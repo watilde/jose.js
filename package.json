@@ -1,6 +1,6 @@
 {
-  "name": "jose",
-  "version": "0.0.0",
+  "name": "josejs",
+  "version": "0.0.1",
   "description": "Javascript Object Signing and Encryption Implementation",
   "main": "lib/main",
   "scripts": {
